@@ -305,6 +305,7 @@
 - [Spica 🚀](https://t.me/SpicaFund) — Level Up with Spica Energy Kits, Earn Points and Join Launchpads!
 - [JackDaw Flip](https://t.me/JackdawFlipbot) — JackDaw Flip: An innovative platform for social interaction and income. Join us now!
 - [Classic Multiplayer](https://classic.ton-game.com) — Have fun with friends
+- [Games with Friends (@BoardingGames_bot)](https://t.me/BoardingGames_bot?start=src_catalog_miniapps) — Board and card games with friends or bots, plus solo puzzles including Sudoku and 2048.
 
 ## Finance
 
